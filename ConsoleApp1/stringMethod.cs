@@ -35,6 +35,40 @@
 
 //            //remove duplicate characters
 
+//            Console.WriteLine("Enter word :");
+//            string aa = Convert.ToString(Console.ReadLine());// hello world 
+
+
+
+//            char[] aaSub = aa.ToCharArray();
+//            int count = 0;
+//            for (int i = 0; i < aaSub.Length; i++)
+//            {
+//                for (int j = 0; j <= i; j++)
+//                {
+
+//                    char c = aaSub[i];   // h 
+//                    if (aaSub[i] == c)
+//                    {
+//                        count++;
+//                    }
+//                    else if (count > 0)
+//                    {
+
+//                        aaSub[i] = 'p';
+
+//                    }
+
+
+//                }
+//                Console.Write(aaSub[i]);
+//            }
+
+
+
+
+
+
 
 
 
@@ -62,7 +96,7 @@
 
 
 
-//            //Find Index Of Substring in C#
+//            Find Index Of Substring in C#
 
 //            string strdata = "How are you";
 
