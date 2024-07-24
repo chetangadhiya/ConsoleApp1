@@ -35,34 +35,34 @@
 
 //            //remove duplicate characters
 
-//            Console.WriteLine("Enter word :");
-//            string aa = Convert.ToString(Console.ReadLine());// hello world 
+//            //Console.WriteLine("Enter word :");
+//            //string aa = Convert.ToString(Console.ReadLine());// hello world 
 
 
 
-//            char[] aaSub = aa.ToCharArray();
-//            int count = 0;
-//            for (int i = 0; i < aaSub.Length; i++)
-//            {
-//                for (int j = 0; j <= i; j++)
-//                {
+//            //char[] aaSub = aa.ToCharArray();
+//            //int count = 0;
+//            //for (int i = 0; i < aaSub.Length; i++)
+//            //{
+//            //    for (int j = 0; j <= i; j++)
+//            //    {
 
-//                    char c = aaSub[i];   // h 
-//                    if (aaSub[i] == c)
-//                    {
-//                        count++;
-//                    }
-//                    else if (count > 0)
-//                    {
+//            //        char c = aaSub[i];   // h 
+//            //        if (aaSub[i] == c)
+//            //        {
+//            //            count++;
+//            //        }
+//            //        else if (count > 0)
+//            //        {
 
-//                        aaSub[i] = 'p';
+//            //            aaSub[i] = 'p';
 
-//                    }
+//            //        }
 
 
-//                }
-//                Console.Write(aaSub[i]);
-//            }
+//            //    }
+//            //    Console.Write(aaSub[i]);
+//            //}
 
 
 
@@ -88,7 +88,7 @@
 
 //            //Arrange a string which contain slash(\) keyword in C#
 //            string[] aa = { "Chetan", "Gadhiya" };
-//            string strJoin = string.Join("/", aa);
+//            string strJoin = string.Join("/" , aa);
 //            Console.WriteLine(strJoin);
 
 
@@ -96,7 +96,7 @@
 
 
 
-//            Find Index Of Substring in C#
+//            //Find Index Of Substring in C#
 
 //            string strdata = "How are you";
 
